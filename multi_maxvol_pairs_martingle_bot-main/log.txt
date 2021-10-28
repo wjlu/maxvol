@@ -1,0 +1,478 @@
+2021-10-10 22:43:47,577 - root - INFO - DODOUSDT: buy order was filled, price: 1.417, qty: 21.2, time: 2021-10-10 22:43:47.577382
+2021-10-10 22:43:48,095 - root - INFO - DYDXUSDT: buy order was filled, price: 24.338, qty: 1.2, time: 2021-10-10 22:43:48.095056
+2021-10-10 23:00:00,001 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[hour='*/1'], next run at: 2021-10-10 23:00:00 CST)" (scheduled at 2021-10-10 23:00:00+08:00)
+2021-10-10 23:01:42,905 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[hour='*/1'], next run at: 2021-10-11 00:00:00 CST)" executed successfully
+2021-10-10 23:02:03,953 - root - INFO - ATAUSDT: buy order was filled, price: 1.0549, qty: 28.0, time: 2021-10-10 23:02:03.953602
+2021-10-11 00:00:00,156 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[hour='*/1'], next run at: 2021-10-11 00:00:00 CST)" (scheduled at 2021-10-11 00:00:00+08:00)
+2021-10-11 00:01:59,541 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[hour='*/1'], next run at: 2021-10-11 01:00:00 CST)" executed successfully
+2021-10-11 01:00:00,131 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[hour='*/1'], next run at: 2021-10-11 01:00:00 CST)" (scheduled at 2021-10-11 01:00:00+08:00)
+2021-10-11 01:01:27,873 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[hour='*/1'], next run at: 2021-10-11 02:00:00 CST)" executed successfully
+2021-10-11 01:20:14,422 - root - INFO - ATAUSDT: sell order was filled, price: 1.0817, qty: 28.0, total_profit: 0.7261699200000044, time: 2021-10-11 01:20:14.422155
+2021-10-11 02:00:00,026 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[hour='*/1'], next run at: 2021-10-11 02:00:00 CST)" (scheduled at 2021-10-11 02:00:00+08:00)
+2021-10-11 02:01:10,098 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[hour='*/1'], next run at: 2021-10-11 03:00:00 CST)" executed successfully
+2021-10-11 03:00:00,181 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[hour='*/1'], next run at: 2021-10-11 03:00:00 CST)" (scheduled at 2021-10-11 03:00:00+08:00)
+2021-10-11 03:00:54,827 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[hour='*/1'], next run at: 2021-10-11 04:00:00 CST)" executed successfully
+2021-10-11 04:00:00,058 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[hour='*/1'], next run at: 2021-10-11 04:00:00 CST)" (scheduled at 2021-10-11 04:00:00+08:00)
+2021-10-11 04:00:54,097 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[hour='*/1'], next run at: 2021-10-11 05:00:00 CST)" executed successfully
+2021-10-11 05:00:00,160 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[hour='*/1'], next run at: 2021-10-11 05:00:00 CST)" (scheduled at 2021-10-11 05:00:00+08:00)
+2021-10-11 05:00:53,701 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[hour='*/1'], next run at: 2021-10-11 06:00:00 CST)" executed successfully
+2021-10-11 05:04:31,242 - root - INFO - DODOUSDT: buy order was filled, price: 1.349, qty: 33.4, time: 2021-10-11 05:04:31.242488
+2021-10-11 05:05:13,962 - root - INFO - DYDXUSDT: buy order was filled, price: 23.171, qty: 1.9, time: 2021-10-11 05:05:13.962393
+2021-10-11 06:00:00,000 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[hour='*/1'], next run at: 2021-10-11 06:00:00 CST)" (scheduled at 2021-10-11 06:00:00+08:00)
+2021-10-11 06:00:58,464 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[hour='*/1'], next run at: 2021-10-11 07:00:00 CST)" executed successfully
+2021-10-11 07:00:00,265 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[hour='*/1'], next run at: 2021-10-11 07:00:00 CST)" (scheduled at 2021-10-11 07:00:00+08:00)
+2021-10-11 07:00:53,356 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[hour='*/1'], next run at: 2021-10-11 08:00:00 CST)" executed successfully
+2021-10-11 07:01:57,517 - root - INFO - ONEUSDT: buy order was filled, price: 0.26051, qty: 115.0, time: 2021-10-11 07:01:57.517387
+2021-10-11 08:00:00,105 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[hour='*/1'], next run at: 2021-10-11 08:00:00 CST)" (scheduled at 2021-10-11 08:00:00+08:00)
+2021-10-11 08:01:03,162 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[hour='*/1'], next run at: 2021-10-11 09:00:00 CST)" executed successfully
+2021-10-11 08:01:40,605 - root - INFO - IOTAUSDT: buy order was filled, price: 1.5143, qty: 19.8, time: 2021-10-11 08:01:40.605894
+2021-10-11 08:14:28,591 - root - INFO - IOTAUSDT: sell order was filled, price: 1.5447, qty: 19.8, total_profit: 1.303621872000004, time: 2021-10-11 08:14:28.591688
+2021-10-11 09:00:00,261 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[hour='*/1'], next run at: 2021-10-11 10:00:00 CST)" (scheduled at 2021-10-11 09:00:00+08:00)
+2021-10-11 09:00:53,512 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[hour='*/1'], next run at: 2021-10-11 10:00:00 CST)" executed successfully
+2021-10-11 09:01:37,121 - root - INFO - IOTAUSDT: buy order was filled, price: 1.4857, qty: 20.2, time: 2021-10-11 09:01:37.121679
+2021-10-11 09:06:52,125 - root - INFO - DYDXUSDT: sell order was filled, price: 24.176, qty: 3.1, total_profit: 2.9587653920000037, time: 2021-10-11 09:06:52.125578
+2021-10-11 09:10:01,614 - root - INFO - ONEUSDT: buy order was filled, price: 0.24802, qty: 181.0, time: 2021-10-11 09:10:01.614695
+2021-10-11 09:18:28,700 - root - INFO - IOTAUSDT: buy order was filled, price: 1.4882, qty: 53.8, time: 2021-10-11 09:18:28.700044
+2021-10-11 09:18:29,070 - root - INFO - DYDXUSDT: sell order was filled, price: 24.539, qty: 3.1, total_profit: 4.083165152000014, time: 2021-10-11 09:18:29.070245
+2021-10-11 09:20:45,257 - root - INFO - ONEUSDT: buy order was filled, price: 0.24759, qty: 485.0, time: 2021-10-11 09:20:45.257458
+2021-10-17 13:59:21,352 - root - INFO - GRTUSDT: buy order was filled, price: 0.81226, qty: 98.0, time: 2021-10-17 13:59:21.352662
+2021-10-17 13:59:33,034 - root - INFO - SNXUSDT: buy order was filled, price: 9.817, qty: 8.1, time: 2021-10-17 13:59:33.034736
+2021-10-17 14:01:52,005 - root - INFO - SFPUSDT: buy order was filled, price: 1.9968, qty: 40.0, time: 2021-10-17 14:01:52.005209
+2021-10-17 15:00:00,013 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[hour='*/1'], next run at: 2021-10-17 15:00:00 CST)" (scheduled at 2021-10-17 15:00:00+08:00)
+2021-10-17 15:01:00,479 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[hour='*/1'], next run at: 2021-10-17 16:00:00 CST)" executed successfully
+2021-10-17 16:00:00,062 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[hour='*/1'], next run at: 2021-10-17 16:00:00 CST)" (scheduled at 2021-10-17 16:00:00+08:00)
+2021-10-17 16:01:06,292 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[hour='*/1'], next run at: 2021-10-17 17:00:00 CST)" executed successfully
+2021-10-17 16:53:31,342 - root - INFO - ETHUSDT_211231: buy order was filled, price: 4036.28, qty: 0.02, time: 2021-10-17 16:53:31.342327
+2021-10-17 16:53:31,616 - root - INFO - ETHUSDT: buy order was filled, price: 3895.47, qty: 0.021, time: 2021-10-17 16:53:31.616498
+2021-10-17 16:59:17,127 - root - INFO - ETHUSDT: buy order was filled, price: 3891.43, qty: 0.021, time: 2021-10-17 16:59:17.127029
+2021-10-17 17:00:00,006 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[hour='*/1'], next run at: 2021-10-17 17:00:00 CST)" (scheduled at 2021-10-17 17:00:00+08:00)
+2021-10-17 20:40:58,966 - root - INFO - DOGEUSDT: buy order was filled, price: 0.23838, qty: 336.0, time: 2021-10-17 20:40:58.966337
+2021-10-17 20:43:30,338 - root - INFO - DOGEUSDT: buy order was filled, price: 0.23846, qty: 335.0, time: 2021-10-17 20:43:30.338170
+2021-10-17 20:57:28,510 - root - INFO - DOGEUSDT: buy order was filled, price: 0.23907, qty: 335.0, time: 2021-10-17 20:57:28.510403
+2021-10-17 21:00:00,037 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[hour='*/1'], next run at: 2021-10-17 22:00:00 CST)" (scheduled at 2021-10-17 21:00:00+08:00)
+2021-10-17 21:01:18,716 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[hour='*/1'], next run at: 2021-10-17 22:00:00 CST)" executed successfully
+2021-10-17 22:00:00,001 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-17 22:00:00 CST)" (scheduled at 2021-10-17 22:00:00+08:00)
+2021-10-17 22:01:21,342 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-17 22:05:00 CST)" executed successfully
+2021-10-17 22:05:00,004 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-17 22:05:00 CST)" (scheduled at 2021-10-17 22:05:00+08:00)
+2021-10-17 22:06:32,336 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-17 22:10:00 CST)" executed successfully
+2021-10-17 22:10:00,002 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-17 22:10:00 CST)" (scheduled at 2021-10-17 22:10:00+08:00)
+2021-10-17 22:11:29,367 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-17 22:15:00 CST)" executed successfully
+2021-10-17 22:15:00,001 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-17 22:15:00 CST)" (scheduled at 2021-10-17 22:15:00+08:00)
+2021-10-17 22:21:16,408 - root - INFO - DOGEUSDT: sell order was filled, price: 0.23856, qty: 335.0, total_profit: -0.2347840799999942, time: 2021-10-17 22:21:16.408346
+2021-10-17 22:23:36,692 - root - INFO - ENJUSDT: buy order was filled, price: 1.6834, qty: 48.0, time: 2021-10-17 22:23:36.691987
+2021-10-17 22:25:00,001 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-17 22:25:00 CST)" (scheduled at 2021-10-17 22:25:00+08:00)
+2021-10-17 22:27:28,350 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-17 22:30:00 CST)" executed successfully
+2021-10-17 22:30:00,001 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-17 22:30:00 CST)" (scheduled at 2021-10-17 22:30:00+08:00)
+2021-10-17 22:32:01,770 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-17 22:35:00 CST)" executed successfully
+2021-10-17 22:35:00,026 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-17 22:35:00 CST)" (scheduled at 2021-10-17 22:35:00+08:00)
+2021-10-17 22:37:09,965 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-17 22:40:00 CST)" executed successfully
+2021-10-17 22:40:00,000 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-17 22:40:00 CST)" (scheduled at 2021-10-17 22:40:00+08:00)
+2021-10-17 22:41:46,339 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-17 22:45:00 CST)" executed successfully
+2021-10-17 22:45:00,001 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-17 22:45:00 CST)" (scheduled at 2021-10-17 22:45:00+08:00)
+2021-10-17 22:46:25,140 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-17 22:50:00 CST)" executed successfully
+2021-10-17 22:50:00,031 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-17 22:50:00 CST)" (scheduled at 2021-10-17 22:50:00+08:00)
+2021-10-17 22:51:38,878 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-17 22:55:00 CST)" executed successfully
+2021-10-17 22:55:00,004 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-17 22:55:00 CST)" (scheduled at 2021-10-17 22:55:00+08:00)
+2021-10-17 22:56:58,427 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-17 23:00:00 CST)" executed successfully
+2021-10-17 23:00:00,004 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-17 23:00:00 CST)" (scheduled at 2021-10-17 23:00:00+08:00)
+2021-10-17 23:02:01,254 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-17 23:05:00 CST)" executed successfully
+2021-10-17 23:05:00,035 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-17 23:05:00 CST)" (scheduled at 2021-10-17 23:05:00+08:00)
+2021-10-17 23:07:18,982 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-17 23:10:00 CST)" executed successfully
+2021-10-17 23:10:00,001 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-17 23:10:00 CST)" (scheduled at 2021-10-17 23:10:00+08:00)
+2021-10-17 23:12:08,734 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-17 23:15:00 CST)" executed successfully
+2021-10-17 23:15:00,001 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-17 23:20:00 CST)" (scheduled at 2021-10-17 23:15:00+08:00)
+2021-10-17 23:17:14,757 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-17 23:20:00 CST)" executed successfully
+2021-10-17 23:20:00,024 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-17 23:25:00 CST)" (scheduled at 2021-10-17 23:20:00+08:00)
+2021-10-18 08:25:00,005 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-18 08:25:00 CST)" (scheduled at 2021-10-18 08:25:00+08:00)
+2021-10-18 08:25:58,071 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-18 08:30:00 CST)" executed successfully
+2021-10-18 08:30:00,007 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-18 08:30:00 CST)" (scheduled at 2021-10-18 08:30:00+08:00)
+2021-10-18 08:31:01,164 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-18 08:35:00 CST)" executed successfully
+2021-10-18 08:35:00,002 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-18 08:35:00 CST)" (scheduled at 2021-10-18 08:35:00+08:00)
+2021-10-18 08:35:59,248 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-18 08:40:00 CST)" executed successfully
+2021-10-24 09:56:34,544 - root - INFO - LRCUSDT: buy order was filled, price: 0.43286, qty: 2310.0, time: 2021-10-24 09:56:34.544245
+2021-10-24 09:56:45,425 - root - INFO - UNIUSDT: buy order was filled, price: 27.116, qty: 37.0, time: 2021-10-24 09:56:45.425434
+2021-10-24 11:03:13,909 - root - INFO - LRCUSDT: buy order was filled, price: 0.43182, qty: 2316.0, time: 2021-10-24 11:03:13.909111
+2021-10-24 11:04:41,587 - root - INFO - UNIUSDT: buy order was filled, price: 26.99, qty: 37.0, time: 2021-10-24 11:04:41.587530
+2021-10-24 11:17:26,668 - root - INFO - UNIUSDT: buy order was filled, price: 27.007, qty: 37.0, time: 2021-10-24 11:17:26.668541
+2021-10-24 11:25:15,548 - root - INFO - None
+2021-10-24 11:25:39,542 - root - INFO - UNIUSDT: buy order was filled, price: 27.0, qty: 37.0, time: 2021-10-24 11:25:39.542133
+2021-10-24 11:28:24,987 - root - INFO - None
+2021-10-24 11:28:40,940 - root - INFO - UNIUSDT: buy order was filled, price: 26.996, qty: 37.0, time: 2021-10-24 11:28:40.940535
+2021-10-24 11:40:12,480 - root - INFO - None
+2021-10-24 11:42:15,984 - root - INFO - UNIUSDT: buy order was filled, price: 27.041, qty: 37.0, time: 2021-10-24 11:42:15.984434
+2021-10-24 12:01:58,698 - root - INFO - <utils.positions.Positions object at 0x7ff9d05589d0>
+2021-10-24 12:02:09,145 - root - INFO - BNBUSDT: buy order was filled, price: 484.14, qty: 2.07, time: 2021-10-24 12:02:09.145742
+2021-10-24 12:11:57,225 - root - INFO - {}
+2021-10-24 12:16:47,025 - root - INFO - BNBUSDT: buy order was filled, price: 483.97, qty: 2.07, time: 2021-10-24 12:16:47.025251
+2021-10-24 12:29:18,133 - root - INFO - {}
+2021-10-24 12:30:01,312 - root - INFO - BNBUSDT: buy order was filled, price: 482.91, qty: 2.07, time: 2021-10-24 12:30:01.312370
+2021-10-24 12:57:41,481 - root - INFO - {}
+2021-10-24 13:05:07,974 - root - INFO - {}
+2021-10-24 13:07:23,075 - root - INFO - BNBUSDT: buy order was filled, price: 482.37, qty: 2.07, time: 2021-10-24 13:07:23.074973
+2021-10-24 13:17:43,705 - root - INFO - {}
+2021-10-24 13:18:21,847 - root - INFO - BNBUSDT: buy order was filled, price: 483.07, qty: 2.07, time: 2021-10-24 13:18:21.847378
+2021-10-24 13:41:30,419 - root - INFO - {}
+2021-10-24 13:43:45,407 - root - INFO - BNBUSDT: buy order was filled, price: 483.05, qty: 2.07, time: 2021-10-24 13:43:45.407099
+2021-10-24 14:10:19,159 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.12, 'zhiying_price': 'None'}}
+2021-10-24 14:10:20,514 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.12, 'zhiying_price': 'None'}}
+2021-10-24 14:10:31,889 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.21, 'zhiying_price': 'None'}}
+2021-10-24 14:10:42,943 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.21, 'zhiying_price': 'None'}}
+2021-10-24 14:10:54,251 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.21, 'zhiying_price': 'None'}}
+2021-10-24 14:11:05,545 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}}
+2021-10-24 14:11:16,431 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}}
+2021-10-24 14:11:27,000 - root - INFO - BAKEUSDT: buy order was filled, price: 2.0759, qty: 482.0, time: 2021-10-24 14:11:27.000277
+2021-10-24 14:11:27,574 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:11:38,100 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:11:48,562 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:11:59,079 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:12:10,022 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:12:20,584 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:12:31,399 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:12:41,880 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:12:52,384 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:13:02,966 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:13:13,471 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:13:24,012 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:13:34,570 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:13:45,088 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:13:55,661 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:14:06,238 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:14:16,774 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:14:27,587 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:14:38,408 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:14:49,359 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:15:00,296 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:15:11,433 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:15:22,349 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:15:33,324 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:15:44,292 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:15:54,869 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:16:05,464 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:16:15,994 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:16:26,538 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:16:37,232 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:16:47,750 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:16:58,342 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:17:08,880 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:17:19,916 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:17:30,352 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:17:40,905 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:17:51,555 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:18:03,417 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:18:13,944 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:18:24,460 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:18:34,965 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:18:45,542 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:18:56,251 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:19:06,853 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:19:17,385 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:19:28,226 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:19:38,807 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:19:50,540 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:20:01,084 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:20:11,626 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:20:22,259 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:20:33,046 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:20:43,631 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:20:54,145 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:21:04,649 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:21:15,221 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:21:25,734 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:21:36,293 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:21:47,168 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:21:58,100 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:22:08,696 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:22:19,330 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:22:29,915 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:22:40,620 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:22:51,195 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:23:02,020 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:23:12,811 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:23:23,470 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:23:34,336 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:23:44,975 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:23:55,679 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:24:06,208 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:24:16,766 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:24:27,464 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:24:38,141 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:24:48,760 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:24:59,482 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:25:10,129 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:25:20,788 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:25:31,351 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:25:41,943 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:25:52,451 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:26:02,942 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:26:13,466 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:26:23,897 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:26:34,461 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:26:44,975 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:26:55,416 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:27:05,927 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:27:16,476 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:27:26,977 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:27:37,488 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0753, 'zhiying_price': 'None'}}
+2021-10-24 14:27:48,094 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0759, 'zhiying_price': 'None'}}
+2021-10-24 14:27:58,663 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0759, 'zhiying_price': 'None'}}
+2021-10-24 14:28:09,202 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0759, 'zhiying_price': 'None'}}
+2021-10-24 14:28:19,694 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0759, 'zhiying_price': 'None'}}
+2021-10-24 14:28:30,150 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0759, 'zhiying_price': 'None'}}
+2021-10-24 14:28:40,577 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0759, 'zhiying_price': 'None'}}
+2021-10-24 14:28:51,162 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0759, 'zhiying_price': 'None'}}
+2021-10-24 14:29:01,730 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0759, 'zhiying_price': 'None'}}
+2021-10-24 14:29:12,235 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0759, 'zhiying_price': 'None'}}
+2021-10-24 14:29:22,695 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0759, 'zhiying_price': 'None'}}
+2021-10-24 14:29:33,233 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0759, 'zhiying_price': 'None'}}
+2021-10-24 14:29:44,449 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0759, 'zhiying_price': 'None'}}
+2021-10-24 14:29:54,927 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0759, 'zhiying_price': 'None'}}
+2021-10-24 14:30:05,418 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0759, 'zhiying_price': 'None'}}
+2021-10-24 14:30:15,873 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0759, 'zhiying_price': 'None'}}
+2021-10-24 14:30:26,404 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0759, 'zhiying_price': 'None'}}
+2021-10-24 14:30:36,960 - root - INFO - {'BNBUSDT': {'symbol': 'BNBUSDT', 'pos': 2.07, 'avg_price': 483.05, 'last_entry_price': 483.05, 'current_increase_pos_count': 1, 'profit_max_price': 484.23, 'zhiying_price': 'None'}, 'BAKEUSDT': {'symbol': 'BAKEUSDT', 'pos': 482.0, 'avg_price': 2.0759, 'last_entry_price': 2.0759, 'current_increase_pos_count': 1, 'profit_max_price': 2.0759, 'zhiying_price': 'None'}}
+2021-10-24 14:52:42,873 - root - INFO - {}
+2021-10-24 14:55:00,007 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 14:55:00 CST)" (scheduled at 2021-10-24 14:55:00+08:00)
+2021-10-24 14:56:16,557 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 15:00:00 CST)" executed successfully
+2021-10-24 14:56:23,781 - root - INFO - {}
+2021-10-24 15:00:00,009 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 15:00:00 CST)" (scheduled at 2021-10-24 15:00:00+08:00)
+2021-10-24 15:01:43,048 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 15:05:00 CST)" executed successfully
+2021-10-24 15:01:45,663 - root - INFO - {}
+2021-10-24 15:01:56,205 - root - INFO - EOSUSDT: buy order was filled, price: 4.876, qty: 20.5, time: 2021-10-24 15:01:56.205436
+2021-10-24 15:05:00,005 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 15:05:00 CST)" (scheduled at 2021-10-24 15:05:00+08:00)
+2021-10-24 15:06:25,764 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 15:10:00 CST)" executed successfully
+2021-10-24 15:06:33,858 - root - INFO - {'EOSUSDT': {'symbol': 'EOSUSDT', 'pos': 20.5, 'avg_price': 4.876, 'last_entry_price': 4.876, 'current_increase_pos_count': 1, 'profit_max_price': 4.88, 'zhiying_price': 'None'}}
+2021-10-24 15:10:00,012 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 15:10:00 CST)" (scheduled at 2021-10-24 15:10:00+08:00)
+2021-10-24 15:11:40,202 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 15:15:00 CST)" executed successfully
+2021-10-24 15:11:44,177 - root - INFO - {'EOSUSDT': {'symbol': 'EOSUSDT', 'pos': 20.5, 'avg_price': 4.876, 'last_entry_price': 4.876, 'current_increase_pos_count': 1, 'profit_max_price': 4.88, 'zhiying_price': 'None'}}
+2021-10-24 15:11:54,862 - root - INFO - EOSUSDT: sell order was filled, price: 4.865, qty: 20.5, total_profit: -0.3052860000000025, time: 2021-10-24 15:11:54.862665
+2021-10-24 15:15:00,011 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 15:15:00 CST)" (scheduled at 2021-10-24 15:15:00+08:00)
+2021-10-24 15:16:52,035 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 15:20:00 CST)" executed successfully
+2021-10-24 15:17:00,408 - root - INFO - {}
+2021-10-24 15:17:10,997 - root - INFO - RENUSDT: buy order was filled, price: 1.13651, qty: 88.0, time: 2021-10-24 15:17:10.997389
+2021-10-24 15:20:00,039 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 15:20:00 CST)" (scheduled at 2021-10-24 15:20:00+08:00)
+2021-10-24 15:21:24,682 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 15:25:00 CST)" executed successfully
+2021-10-24 15:21:25,505 - root - INFO - {'RENUSDT': {'symbol': 'RENUSDT', 'pos': 88.0, 'avg_price': 1.13651, 'last_entry_price': 1.13651, 'current_increase_pos_count': 1, 'profit_max_price': 1.13836, 'zhiying_price': 'None'}}
+2021-10-24 15:25:00,011 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 15:25:00 CST)" (scheduled at 2021-10-24 15:25:00+08:00)
+2021-10-24 15:26:10,757 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 15:30:00 CST)" executed successfully
+2021-10-24 15:26:20,680 - root - INFO - {'RENUSDT': {'symbol': 'RENUSDT', 'pos': 88.0, 'avg_price': 1.13651, 'last_entry_price': 1.13651, 'current_increase_pos_count': 1, 'profit_max_price': 1.14013, 'zhiying_price': 'None'}}
+2021-10-24 15:30:00,007 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 15:30:00 CST)" (scheduled at 2021-10-24 15:30:00+08:00)
+2021-10-24 15:31:11,447 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 15:35:00 CST)" executed successfully
+2021-10-24 15:31:18,084 - root - INFO - {'RENUSDT': {'symbol': 'RENUSDT', 'pos': 88.0, 'avg_price': 1.13651, 'last_entry_price': 1.13651, 'current_increase_pos_count': 1, 'profit_max_price': 1.14013, 'zhiying_price': 'None'}}
+2021-10-24 15:35:00,038 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 15:35:00 CST)" (scheduled at 2021-10-24 15:35:00+08:00)
+2021-10-24 15:36:23,941 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 15:40:00 CST)" executed successfully
+2021-10-24 15:36:28,086 - root - INFO - {'RENUSDT': {'symbol': 'RENUSDT', 'pos': 88.0, 'avg_price': 1.13651, 'last_entry_price': 1.13651, 'current_increase_pos_count': 1, 'profit_max_price': 1.14013, 'zhiying_price': 'None'}}
+2021-10-24 15:40:00,008 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 15:40:00 CST)" (scheduled at 2021-10-24 15:40:00+08:00)
+2021-10-24 15:41:46,669 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 15:45:00 CST)" executed successfully
+2021-10-24 15:41:48,972 - root - INFO - {'RENUSDT': {'symbol': 'RENUSDT', 'pos': 88.0, 'avg_price': 1.13651, 'last_entry_price': 1.13651, 'current_increase_pos_count': 1, 'profit_max_price': 1.14013, 'zhiying_price': 'None'}}
+2021-10-24 15:45:00,009 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 15:50:00 CST)" (scheduled at 2021-10-24 15:45:00+08:00)
+2021-10-24 15:46:18,361 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 15:50:00 CST)" executed successfully
+2021-10-24 15:46:25,625 - root - INFO - {'RENUSDT': {'symbol': 'RENUSDT', 'pos': 88.0, 'avg_price': 1.13651, 'last_entry_price': 1.13651, 'current_increase_pos_count': 1, 'profit_max_price': 1.14101, 'zhiying_price': 'None'}}
+2021-10-24 15:50:43,691 - root - INFO - {'RENUSDT': {'symbol': 'RENUSDT', 'pos': 70.0, 'avg_price': 1.13651, 'last_entry_price': 1.13651, 'current_increase_pos_count': 1, 'profit_max_price': 1.14266, 'zhiying_price': 'None'}}
+2021-10-24 15:58:03,323 - root - INFO - {'RENUSDT': {'symbol': 'RENUSDT', 'pos': 70.0, 'avg_price': 1.13651, 'last_entry_price': 1.13651, 'current_increase_pos_count': 1, 'profit_max_price': 1.14266, 'zhiying_price': 'None'}}
+2021-10-24 16:00:00,005 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 16:00:00 CST)" (scheduled at 2021-10-24 16:00:00+08:00)
+2021-10-24 16:01:39,551 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 16:05:00 CST)" executed successfully
+2021-10-24 16:01:47,445 - root - INFO - {'RENUSDT': {'symbol': 'RENUSDT', 'pos': 70.0, 'avg_price': 1.13651, 'last_entry_price': 1.13651, 'current_increase_pos_count': 1, 'profit_max_price': 1.14266, 'zhiying_price': 'None'}}
+2021-10-24 16:04:50,231 - root - INFO - {'RENUSDT': {'symbol': 'RENUSDT', 'pos': 56.0, 'avg_price': 1.13651, 'last_entry_price': 1.13651, 'current_increase_pos_count': 1, 'profit_max_price': 1.14266, 'zhiying_price': 'None'}}
+2021-10-24 16:05:00,003 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 16:05:00 CST)" (scheduled at 2021-10-24 16:05:00+08:00)
+2021-10-24 16:07:28,593 - root - INFO - {'RENUSDT': {'symbol': 'RENUSDT', 'pos': 56.0, 'avg_price': 1.13651, 'last_entry_price': 1.13651, 'current_increase_pos_count': 1, 'profit_max_price': 1.143, 'zhiying_price': 'None'}}
+2021-10-24 16:10:00,004 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 16:10:00 CST)" (scheduled at 2021-10-24 16:10:00+08:00)
+2021-10-24 16:11:25,196 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 16:15:00 CST)" executed successfully
+2021-10-24 16:11:31,866 - root - INFO - {'RENUSDT': {'symbol': 'RENUSDT', 'pos': 56.0, 'avg_price': 1.13651, 'last_entry_price': 1.13651, 'current_increase_pos_count': 1, 'profit_max_price': 1.14357, 'zhiying_price': 'None'}}
+2021-10-24 16:13:31,546 - root - INFO - {}
+2021-10-24 16:15:00,003 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 16:15:00 CST)" (scheduled at 2021-10-24 16:15:00+08:00)
+2021-10-24 16:17:09,172 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 16:20:00 CST)" executed successfully
+2021-10-24 16:17:19,809 - root - INFO - {}
+2021-10-24 16:20:00,131 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 16:20:00 CST)" (scheduled at 2021-10-24 16:20:00+08:00)
+2021-10-24 16:21:09,660 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 16:25:00 CST)" executed successfully
+2021-10-24 16:21:17,696 - root - INFO - {}
+2021-10-24 16:23:56,620 - root - INFO - {}
+2021-10-24 16:26:27,477 - root - INFO - {}
+2021-10-24 16:26:37,938 - root - INFO - AVAXUSDT: buy order was filled, price: 65.999, qty: 2.0, time: 2021-10-24 16:26:37.938623
+2021-10-24 16:28:42,884 - root - INFO - {'AVAXUSDT': {'symbol': 'AVAXUSDT', 'pos': 2.0, 'avg_price': 65.999, 'last_entry_price': 65.999, 'current_increase_pos_count': 1, 'profit_max_price': 66.052, 'zhiying_price': 'None', 'minus_count': 0}}
+2021-10-24 16:45:00,007 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 16:45:00 CST)" (scheduled at 2021-10-24 16:45:00+08:00)
+2021-10-24 16:50:00,015 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 16:50:00 CST)" (scheduled at 2021-10-24 16:50:00+08:00)
+2021-10-24 16:51:11,527 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 16:55:00 CST)" executed successfully
+2021-10-24 16:55:00,011 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 16:55:00 CST)" (scheduled at 2021-10-24 16:55:00+08:00)
+2021-10-24 16:56:16,743 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 17:00:00 CST)" executed successfully
+2021-10-24 17:00:00,007 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 17:00:00 CST)" (scheduled at 2021-10-24 17:00:00+08:00)
+2021-10-24 17:01:25,121 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 17:05:00 CST)" executed successfully
+2021-10-24 17:05:00,038 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 17:05:00 CST)" (scheduled at 2021-10-24 17:05:00+08:00)
+2021-10-24 17:06:14,840 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 17:10:00 CST)" executed successfully
+2021-10-24 17:10:00,009 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 17:10:00 CST)" (scheduled at 2021-10-24 17:10:00+08:00)
+2021-10-24 17:11:09,991 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 17:15:00 CST)" executed successfully
+2021-10-24 17:15:00,007 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 17:15:00 CST)" (scheduled at 2021-10-24 17:15:00+08:00)
+2021-10-24 17:16:11,582 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 17:20:00 CST)" executed successfully
+2021-10-24 17:20:00,040 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 17:20:00 CST)" (scheduled at 2021-10-24 17:20:00+08:00)
+2021-10-24 17:21:32,369 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 17:25:00 CST)" executed successfully
+2021-10-24 17:30:00,008 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 17:30:00 CST)" (scheduled at 2021-10-24 17:30:00+08:00)
+2021-10-24 17:31:18,655 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 17:35:00 CST)" executed successfully
+2021-10-24 17:35:00,042 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 17:35:00 CST)" (scheduled at 2021-10-24 17:35:00+08:00)
+2021-10-24 17:36:17,368 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 17:40:00 CST)" executed successfully
+2021-10-24 17:46:09,611 - root - INFO - {'AVAXUSDT': {'symbol': 'DODOUSDT', 'pos': 30.0, 'avg_price': 1.569, 'last_entry_price': 1.569, 'current_increase_pos_count': 1, 'profit_max_price': 66.381, 'zhiying_price': 'None', 'minus_count': 0}}
+2021-10-24 17:50:01,909 - apscheduler.executors.default - WARNING - Run time of job "get_data (trigger: cron[minute='*/5'], next run at: 2021-10-24 17:50:00 CST)" was missed by 0:00:01.909524
+2021-10-24 17:55:36,144 - root - INFO - {}
+2021-10-24 17:55:47,346 - root - INFO - KSMUSDT: buy order was filled, price: 400.8, qty: 2.5, time: 2021-10-24 17:55:47.346488
+2021-10-24 19:25:42,800 - root - INFO - YFIIUSDT: buy order was filled, price: 4065.3, qty: 0.246, time: 2021-10-24 19:25:42.800729
+2021-10-24 20:00:00,364 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[hour='*/4'], next run at: 2021-10-24 20:00:00 CST)" (scheduled at 2021-10-24 20:00:00+08:00)
+2021-10-24 20:01:55,372 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[hour='*/4'], next run at: 2021-10-25 00:00:00 CST)" executed successfully
+2021-10-24 20:02:01,373 - root - INFO - {'KSMUSDT': {'symbol': 'KSMUSDT', 'pos': 2.5, 'avg_price': 400.8, 'last_entry_price': 400.8, 'current_increase_pos_count': 1, 'profit_max_price': 406.94, 'zhiying_price': 'None', 'minus_count': 0}, 'YFIIUSDT': {'symbol': 'YFIIUSDT', 'pos': 0.246, 'avg_price': 4065.3, 'last_entry_price': 4065.3, 'current_increase_pos_count': 1, 'profit_max_price': 4092.9, 'zhiying_price': 'None', 'minus_count': 0}}
+2021-10-24 22:06:57,912 - root - INFO - {'KSMUSDT': {'symbol': 'KSMUSDT', 'pos': 2.5, 'avg_price': 400.8, 'last_entry_price': 400.8, 'current_increase_pos_count': 1, 'profit_max_price': 406.94, 'zhiying_price': 'None', 'minus_count': 0}, 'YFIIUSDT': {'symbol': 'YFIIUSDT', 'pos': 0.246, 'avg_price': 4065.3, 'last_entry_price': 4065.3, 'current_increase_pos_count': 1, 'profit_max_price': 4092.9, 'zhiying_price': 'None', 'minus_count': 0}}
+2021-10-24 22:14:51,811 - root - INFO - {'KSMUSDT': {'symbol': 'KSMUSDT', 'pos': 2.0, 'avg_price': 400.8, 'last_entry_price': 400.8, 'current_increase_pos_count': 1, 'profit_max_price': 406.94, 'zhiying_price': 'None', 'minus_count': 1}, 'YFIIUSDT': {'symbol': 'YFIIUSDT', 'pos': 0.246, 'avg_price': 4065.3, 'last_entry_price': 4065.3, 'current_increase_pos_count': 1, 'profit_max_price': 4092.9, 'zhiying_price': 'None', 'minus_count': 0}}
+2021-10-24 22:15:02,539 - root - INFO - KSMUSDT: sell order was filled, price: 404.51, qty: 0.5, total_profit: 1.6931959999999897, time: 2021-10-24 22:15:02.539841
+2021-10-27 15:05:13,134 - root - INFO - {}
+2021-10-28 12:00:29,167 - root - INFO - {}
+2021-10-28 12:00:39,609 - root - INFO - {}
+2021-10-28 12:00:50,266 - root - INFO - {}
+2021-10-28 12:01:00,704 - root - INFO - {}
+2021-10-28 12:01:11,156 - root - INFO - {}
+2021-10-28 12:01:21,599 - root - INFO - {}
+2021-10-28 12:01:32,092 - root - INFO - {}
+2021-10-28 12:01:42,522 - root - INFO - {}
+2021-10-28 12:01:52,954 - root - INFO - {}
+2021-10-28 12:02:03,388 - root - INFO - {}
+2021-10-28 12:02:13,805 - root - INFO - {}
+2021-10-28 12:02:24,263 - root - INFO - {}
+2021-10-28 12:02:34,682 - root - INFO - {}
+2021-10-28 12:02:45,108 - root - INFO - {}
+2021-10-28 12:03:02,624 - root - INFO - {}
+2021-10-28 12:03:13,066 - root - INFO - {}
+2021-10-28 12:03:23,547 - root - INFO - {}
+2021-10-28 12:03:34,193 - root - INFO - {}
+2021-10-28 12:03:44,638 - root - INFO - {}
+2021-10-28 12:03:55,071 - root - INFO - {}
+2021-10-28 12:04:05,513 - root - INFO - {}
+2021-10-28 12:04:15,952 - root - INFO - {}
+2021-10-28 12:04:26,369 - root - INFO - {}
+2021-10-28 12:04:36,830 - root - INFO - {}
+2021-10-28 12:04:47,264 - root - INFO - {}
+2021-10-28 12:04:57,696 - root - INFO - {}
+2021-10-28 12:05:08,123 - root - INFO - {}
+2021-10-28 12:05:18,624 - root - INFO - {}
+2021-10-28 12:05:29,266 - root - INFO - {}
+2021-10-28 12:05:39,709 - root - INFO - {}
+2021-10-28 12:05:50,126 - root - INFO - {}
+2021-10-28 12:06:00,644 - root - INFO - {}
+2021-10-28 12:06:11,076 - root - INFO - {}
+2021-10-28 12:06:21,518 - root - INFO - {}
+2021-10-28 12:06:31,959 - root - INFO - {}
+2021-10-28 12:06:42,386 - root - INFO - {}
+2021-10-28 12:06:52,828 - root - INFO - {}
+2021-10-28 12:07:03,275 - root - INFO - {}
+2021-10-28 12:07:23,046 - root - INFO - {}
+2021-10-28 12:07:37,099 - root - INFO - {}
+2021-10-28 12:07:47,524 - root - INFO - {}
+2021-10-28 12:07:57,978 - root - INFO - {}
+2021-10-28 12:08:08,434 - root - INFO - {}
+2021-10-28 12:08:18,881 - root - INFO - {}
+2021-10-28 12:08:29,312 - root - INFO - {}
+2021-10-28 12:08:39,772 - root - INFO - {}
+2021-10-28 12:08:50,214 - root - INFO - {}
+2021-10-28 12:09:00,824 - root - INFO - {}
+2021-10-28 12:09:11,276 - root - INFO - {}
+2021-10-28 12:09:21,731 - root - INFO - {}
+2021-10-28 12:09:32,150 - root - INFO - {}
+2021-10-28 12:09:42,586 - root - INFO - {}
+2021-10-28 12:09:53,034 - root - INFO - {}
+2021-10-28 12:10:03,460 - root - INFO - {}
+2021-10-28 12:10:13,893 - root - INFO - {}
+2021-10-28 12:10:24,326 - root - INFO - {}
+2021-10-28 12:10:34,784 - root - INFO - {}
+2021-10-28 12:10:45,233 - root - INFO - {}
+2021-10-28 12:10:55,672 - root - INFO - {}
+2021-10-28 12:11:06,113 - root - INFO - {}
+2021-10-28 12:11:16,552 - root - INFO - {}
+2021-10-28 12:11:27,042 - root - INFO - {}
+2021-10-28 12:11:37,513 - root - INFO - {}
+2021-10-28 12:11:47,959 - root - INFO - {}
+2021-10-28 12:11:58,397 - root - INFO - {}
+2021-10-28 12:12:08,819 - root - INFO - {}
+2021-10-28 12:12:19,248 - root - INFO - {}
+2021-10-28 12:12:29,962 - root - INFO - {}
+2021-10-28 12:12:40,384 - root - INFO - {}
+2021-10-28 12:12:50,820 - root - INFO - {}
+2021-10-28 12:13:00,027 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/13'], next run at: 2021-10-28 12:13:00 CST)" (scheduled at 2021-10-28 12:13:00+08:00)
+2021-10-28 12:13:01,273 - root - INFO - {}
+2021-10-28 12:13:11,724 - root - INFO - {}
+2021-10-28 12:13:22,169 - root - INFO - {}
+2021-10-28 12:13:32,593 - root - INFO - {}
+2021-10-28 12:13:43,058 - root - INFO - {}
+2021-10-28 12:13:53,495 - root - INFO - {}
+2021-10-28 12:14:03,302 - apscheduler.executors.default - INFO - Job "get_data (trigger: cron[minute='*/13'], next run at: 2021-10-28 12:26:00 CST)" executed successfully
+2021-10-28 12:14:03,903 - root - INFO - {}
+2021-10-28 12:14:14,355 - root - INFO - {}
+2021-10-28 12:14:24,779 - root - INFO - {}
+2021-10-28 12:14:35,212 - root - INFO - {}
+2021-10-28 12:14:45,640 - root - INFO - {}
+2021-10-28 12:14:56,064 - root - INFO - {}
+2021-10-28 12:15:06,496 - root - INFO - {}
+2021-10-28 12:15:17,136 - root - INFO - {}
+2021-10-28 12:15:27,563 - root - INFO - {}
+2021-10-28 12:15:37,989 - root - INFO - {}
+2021-10-28 12:15:48,445 - root - INFO - {}
+2021-10-28 12:15:58,869 - root - INFO - {}
+2021-10-28 12:16:09,355 - root - INFO - {}
+2021-10-28 12:16:19,804 - root - INFO - {}
+2021-10-28 12:16:30,235 - root - INFO - {}
+2021-10-28 12:16:40,664 - root - INFO - {}
+2021-10-28 12:16:51,104 - root - INFO - {}
+2021-10-28 12:17:01,578 - root - INFO - {}
+2021-10-28 12:17:12,053 - root - INFO - {}
+2021-10-28 12:17:22,479 - root - INFO - {}
+2021-10-28 12:17:32,949 - root - INFO - {}
+2021-10-28 12:17:43,387 - root - INFO - {}
+2021-10-28 12:17:53,819 - root - INFO - {}
+2021-10-28 12:18:04,527 - root - INFO - {}
+2021-10-28 12:18:16,756 - root - INFO - {}
+2021-10-28 12:18:28,483 - root - INFO - {}
+2021-10-28 12:18:40,619 - root - INFO - {}
+2021-10-28 12:18:51,061 - root - INFO - {}
+2021-10-28 12:19:01,508 - root - INFO - {}
+2021-10-28 12:19:11,980 - root - INFO - {}
+2021-10-28 12:19:22,452 - root - INFO - {}
+2021-10-28 12:19:32,912 - root - INFO - {}
+2021-10-28 12:19:43,342 - root - INFO - {}
+2021-10-28 12:19:53,785 - root - INFO - {}
+2021-10-28 12:20:04,431 - root - INFO - {}
+2021-10-28 12:20:14,872 - root - INFO - {}
+2021-10-28 12:20:25,297 - root - INFO - {}
+2021-10-28 12:20:35,711 - root - INFO - {}
+2021-10-28 12:20:46,127 - root - INFO - {}
+2021-10-28 12:20:56,596 - root - INFO - {}
+2021-10-28 12:21:07,103 - root - INFO - {}
+2021-10-28 12:21:17,540 - root - INFO - {}
+2021-10-28 12:21:27,997 - root - INFO - {}
+2021-10-28 12:21:38,431 - root - INFO - {}
+2021-10-28 12:21:48,860 - root - INFO - {}
+2021-10-28 12:21:59,313 - root - INFO - {}
+2021-10-28 12:22:09,754 - root - INFO - {}
+2021-10-28 12:22:20,211 - root - INFO - {}
+2021-10-28 12:22:30,689 - root - INFO - {}
+2021-10-28 12:22:41,164 - root - INFO - {}
+2021-10-28 12:22:51,589 - root - INFO - {}
+2021-10-28 12:23:02,053 - root - INFO - {}
+2021-10-28 12:23:12,495 - root - INFO - {}
+2021-10-28 12:23:22,943 - root - INFO - {}
+2021-10-28 12:23:33,427 - root - INFO - {}
+2021-10-28 12:23:43,908 - root - INFO - {}
+2021-10-28 12:23:54,324 - root - INFO - {}
+2021-10-28 12:24:04,911 - root - INFO - {}
+2021-10-28 12:24:15,399 - root - INFO - {}
+2021-10-28 12:24:25,874 - root - INFO - {}
+2021-10-28 12:24:36,300 - root - INFO - {}
+2021-10-28 12:24:46,727 - root - INFO - {}
+2021-10-28 12:24:57,158 - root - INFO - {}
+2021-10-28 12:25:07,602 - root - INFO - {}
+2021-10-28 12:25:18,073 - root - INFO - {}
+2021-10-28 12:25:28,512 - root - INFO - {}
+2021-10-28 12:25:38,963 - root - INFO - {}
+2021-10-28 12:25:49,510 - root - INFO - {}
+2021-10-28 12:25:59,961 - root - INFO - {}
+2021-10-28 12:26:00,027 - apscheduler.executors.default - INFO - Running job "get_data (trigger: cron[minute='*/13'], next run at: 2021-10-28 12:26:00 CST)" (scheduled at 2021-10-28 12:26:00+08:00)
+2021-10-28 12:26:10,406 - root - INFO - {}
+2021-10-28 12:26:20,831 - root - INFO - {}
+2021-10-28 12:26:31,255 - root - INFO - {}
+2021-10-28 12:26:41,704 - root - INFO - {}
+2021-10-28 12:26:52,584 - root - INFO - {}
+2021-10-28 12:27:07,434 - root - INFO - {}
+2021-10-28 12:27:19,278 - root - INFO - {}
+2021-10-28 12:27:31,875 - root - INFO - {}

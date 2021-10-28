@@ -1,0 +1,21 @@
+{
+  "platform": "binance_future",
+  "api_key": "gAqoTTby0B0xFV9UDha9FhdM8wPVyhGsEKVQB75MyS9p0AXZUNh8RpRef9gnzGMm",
+  "api_secret": "hIQXCrAH3udXIcHFlWBBWdizLwprefcknr0DE61n5BXRy0kDa07AMfTACCgRaptW",
+  "max_pairs": 2,
+  "pump_pct": 0.026,
+  "pump_pct_4h": 0.045,
+  "initial_trade_value": 600,
+  "trade_value_multiplier": 1.5,
+  "increase_pos_when_drop_down": 0.02,
+  "exit_profit_pct": 0.02,
+  "profit_pull_back_pct": 0.01,
+  "trading_fee": 0.0004,
+  "max_increase_pos_count": 8,
+  "turnover_threshold": 1000000,
+  "blocked_lists": [],
+  "allowed_lists": [],
+  "max_minus_count": 1,
+  "proxy_host": "",
+  "proxy_port": 0
+}
